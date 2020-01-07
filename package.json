@@ -1,0 +1,7 @@
+{
+    "name": "coffeescope2_check_scope_2",
+    "version": "1.0.0",
+    "dependencies": {
+        "coffeescope2": "^0.5.1"
+    }
+}
